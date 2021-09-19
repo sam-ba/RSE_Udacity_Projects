@@ -18,7 +18,7 @@
 ├── README.md
 ```
 
-### Run 
+### Run this project
 - Clone this repository
 - Create the build directory in the top level by running:
 ```
