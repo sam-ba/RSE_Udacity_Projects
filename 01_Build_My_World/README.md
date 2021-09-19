@@ -1,4 +1,4 @@
-## Directory Structure
+### Directory Structure
 ```
 .01_Build_My_World
 ├── CMakeLists.txt
@@ -16,4 +16,11 @@
 └── world
     ├── myworld
     └── sam_world
+```
+
+### Run 
+- Clone this repository
+- Create the build directory in the top level by running:
+```
+mkdir build && cd build
 ```
